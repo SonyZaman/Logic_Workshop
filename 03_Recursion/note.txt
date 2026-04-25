@@ -1,0 +1,43 @@
+Logic  – Recursion Notes
+
+--Ami ekjon lazy manush 😎
+Recursion function holo amar slave 🤖
+
+--Ami nijer ekta choto portion kore dibo,
+ar baki ta slave ke diye dibo.
+
+--Se nije nije amar dekhadekhi shikhe kaj kore dibe.
+
+🧠 Recursion bujhar 2 ta way
+
+1️⃣ Forward thinking:
+Ami ekta operation kore recursion ke dibo,
+se oita dekhe bakita kore nibe.
+
+2️⃣ Backtracking thinking:
+Se amake ekta value dibe (assume korbo),
+tarpor oi value er sathe ami amar operation korbo (eta holo backtracking)
+
+🔁 Program flow concept
+Recursion function call er ager part = forward
+Recursion function call er porer part = backtracking
+
+🔄 Linear traversal 4 vabe kora jay
+Forward (1 → n)
+Forward (n → 1)
+Backtrack (n → 1)
+Backtrack (1 → n)
+
+🧩 Recursion problem solve korar 3 ta step
+
+1️⃣ Relationship (main idea):
+Recursion (slave) amake ki dibe (assume kora),
+or ami recursion (slave) ke ki dibo
+
+2️⃣ Current function behavior
+ami je function ta te kaj kore recursion slave 
+theke kichu dibo or kichu value owr theke nibo
+se function ki return korbe
+
+3️⃣ Base case
+Kokhon recursion theme jabe
