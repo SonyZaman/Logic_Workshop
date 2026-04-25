@@ -45,7 +45,7 @@ What recursion (slave) will give me (assumed), and what I will give to recursion
 
 ### 2️⃣ Current Function Behavior
 In the function where I am working:
-*   What will this function return or do?
+*   What will this function return ?
 
 ### 3️⃣ Base Case
 When recursion will stop (**Crucial step**).
