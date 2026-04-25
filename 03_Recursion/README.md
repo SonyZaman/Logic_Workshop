@@ -1,4 +1,4 @@
-# 🧠 Logic – Recursion Notes
+# 🧠 Thinking Approach for Recursion Problems
 
 ---
 
