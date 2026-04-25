@@ -45,8 +45,6 @@ What recursion (slave) will give me (assumed), and what I will give to recursion
 
 ### 2️⃣ Current Function Behavior
 In the function where I am working:
-*   What will I send to the recursion slave?
-*   What value will I receive from it?
 *   What will this function return or do?
 
 ### 3️⃣ Base Case
