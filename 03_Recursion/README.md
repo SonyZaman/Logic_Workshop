@@ -6,8 +6,8 @@
 
 Recursion function is my **slave 🤖**
 
-> I will do only a small portion of the work, and give the rest to the slave.
-> The slave will learn and complete the work by itself by following me.
+I will do only a small portion of the work, and give the rest to the slave.
+The slave will learn and complete the work by itself by following me.
 
 ---
 
