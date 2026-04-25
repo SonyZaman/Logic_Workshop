@@ -4,7 +4,8 @@ using namespace std;
 bool checkSort(int n,int i,vector<int>&v){
 
       if(i==(n-1))return true;
-
+      
+      // i call recursion before other operation, so backtracking
       bool recursion_amake_dibe = checkSort(n,i+1,v);
       bool amar_result = false;
 
