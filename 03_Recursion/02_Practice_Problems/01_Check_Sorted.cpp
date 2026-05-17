@@ -5,7 +5,10 @@ bool checkSort(int n,int i,vector<int>&v){
 
       if(i==(n-1))return true;
       
-      // i call recursion before other operation, so backtracking
+      // I call recursion first, so this is backtracking
+      // traversal: first → last
+      // backtracking: last → first
+      // After my slave has checked rest, i will check first number sorted or not
       bool recursion_amake_dibe = checkSort(n,i+1,v);
       bool amar_result = false;
 

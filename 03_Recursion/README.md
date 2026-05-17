@@ -38,14 +38,19 @@ It gives me a value (assumed), then I perform my operation using that value.
 
 ---
 
-## 🧩 3 Steps to Solve Recursion Problems
+## 🧩 4 Steps to Solve Recursion Problems
 
-### 1️⃣ Relationship (Main Idea)
+### 1️⃣ In which way Traversal
+Decide how to traverse the problem. Should the work happen **Forward** (before the recursive call) or while **Backtracking** (after the recursive call)? 
+*   **Forward:** Process the current step, then call the slave.
+*   **Backtracking:** Call the slave first, then process its result.
+
+### 2️⃣ Relationship (Main Idea)
 What recursion (slave) will give me (assumed), and what I will give to recursion (slave).
 
-### 2️⃣ Current Function Behavior
+### 3️⃣ Current Function Behavior
 In the function where I am working:
 *   What will this function return ?
 
-### 3️⃣ Base Case
+### 4️⃣ Base Case
 When recursion will stop (**Crucial step**).

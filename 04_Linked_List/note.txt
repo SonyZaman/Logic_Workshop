@@ -1,0 +1,5 @@
+-linked list heap memory te create kora, linked list ke sorasori access kora possible na,jehetu heap memory te full linked list, eder value track rakhte amra node pointer head,tail,or extra nijera kichu node pointer create korte pari,linked list er  value address track rakhte
+-at a time , amr shudhu head,tail,newNode,tmp or extra  node pointer jeisob Node er address store kore seisob node er  address and value track rakhte pari
+-middle node gular address amra sorasori track korte pari na, eijonno ekta third tmp or onno kono  Node pointer niye amra track kori, or head diye first node r tail diye last node er address track rakhi
+-kono node er moddhe link/connection disconnect korar age always chinta korba, necessary adress jate hariye na jai
+-node disconnect,connect age visual chinta korba then code
