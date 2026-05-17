@@ -6,6 +6,8 @@ Collection of LeetCode problems focused on linked list manipulation and algorith
 
 ### 1. Design Linked List (`01_Designed_Linked_List.cpp`)
 
+**Problem Link:** [LeetCode - Design Linked List](https://leetcode.com/problems/design-linked-list/)
+
 Implement a custom linked list class with basic operations.
 
 **Operations:** insert, delete, get value at index
@@ -17,7 +19,7 @@ Implement a custom linked list class with basic operations.
 
 ### 2. Middle of the Linked List (`02_Middle_Of_The_Linked_List.cpp`)
 
-[LeetCode Problem](https://leetcode.com/problems/middle-of-the-linked-list/)
+**Problem Link:** [LeetCode - Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 
 Find the middle node of a linked list. If there are two middle nodes, return the second one.
 
@@ -47,6 +49,8 @@ ListNode* middleNode(ListNode* head) {
 
 ### 3. Swapping Nodes in a Linked List (`03_Swapping_Nodes.cpp`)
 
+**Problem Link:** [LeetCode - Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
+
 Swap values of two nodes at specific positions.
 
 **Time:** O(n)  
@@ -56,6 +60,8 @@ Swap values of two nodes at specific positions.
 
 ### 4. Merge Nodes Between Zeros (`04_Merge_Nodes.cpp`)
 
+**Problem Link:** [LeetCode - Merge Nodes in Between Zeros](https://leetcode.com/problems/merge-nodes-in-between-zeros/)
+
 Merge nodes between zeros in a linked list.
 
 **Time:** O(n)  
@@ -64,6 +70,8 @@ Merge nodes between zeros in a linked list.
 ---
 
 ### 5. Delete Node in a Linked List (`05_Delete_Node.cpp`)
+
+**Problem Link:** [LeetCode - Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 
 Delete a node when you only have access to that node (not the head).
 
@@ -87,7 +95,7 @@ void deleteNode(ListNode* node) {
 
 ### 6. Reverse Linked List (`06_Reverse_List.cpp`)
 
-[LeetCode Problem](https://leetcode.com/problems/reverse-linked-list/)
+**Problem Link:** [LeetCode - Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 Reverse a singly linked list using recursion.
 
@@ -117,7 +125,7 @@ ListNode* reverseList(ListNode* head) {
 
 ### 7. Linked List Cycle (`07_Has_Cycle.cpp`)
 
-[LeetCode Problem](https://leetcode.com/problems/linked-list-cycle/)
+**Problem Link:** [LeetCode - Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
 
 Detect if a linked list has a cycle.
 
@@ -153,7 +161,7 @@ bool hasCycle(ListNode *head) {
 
 ### 10. Remove Duplicates from Sorted List (`10_Remove_Dupliates_From_Sorted_List.cpp`)
 
-[LeetCode Problem](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+**Problem Link:** [LeetCode - Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 
 Remove duplicate values from a sorted linked list.
 
@@ -193,6 +201,8 @@ ListNode* deleteDuplicates(ListNode* head) {
 ---
 
 ### 11. Remove Nth Node From End of List (`11_Remove_Nth_Node_From_Last.cpp`)
+
+**Problem Link:** [LeetCode - Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 
 Remove the nth node from the end of the list.
 
